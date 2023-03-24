@@ -1,0 +1,8 @@
+lora_app.c:191:6:LoRaWAN_Init	2
+lora_app.c:263:6:HAL_GPIO_EXTI_Callback	2
+lora_app.c:283:13:OnRxData	12
+lora_app.c:346:13:SendTxData	3
+lora_app.c:439:13:OnTxTimerEvent	1
+lora_app.c:453:13:OnTxData	5
+lora_app.c:479:13:OnJoinRequest	4
+lora_app.c:504:13:OnMacProcessNotify	1

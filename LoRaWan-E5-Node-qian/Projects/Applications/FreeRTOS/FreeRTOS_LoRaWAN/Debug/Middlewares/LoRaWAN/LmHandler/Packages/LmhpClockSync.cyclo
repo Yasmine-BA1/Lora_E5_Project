@@ -1,0 +1,9 @@
+LmhpClockSync.c:166:15:LmhpClockSyncPackageFactory	1
+LmhpClockSync.c:171:13:LmhpClockSyncInit	2
+LmhpClockSync.c:188:13:LmhpClockSyncIsInitialized	1
+LmhpClockSync.c:193:13:LmhpClockSyncIsRunning	2
+LmhpClockSync.c:203:13:LmhpClockSyncProcess	3
+LmhpClockSync.c:214:13:LmhpClockSyncOnMcpsConfirm	2
+LmhpClockSync.c:239:13:LmhpClockSyncOnMcpsIndication	13
+LmhpClockSync.c:349:24:LmhpClockSyncAppTimeReq	3
+LmhpClockSync.c:421:13:OnPeriodicTimeStartTimer	1

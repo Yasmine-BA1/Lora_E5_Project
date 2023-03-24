@@ -1,0 +1,8 @@
+core_cm4.h:1933:34:__NVIC_SystemReset	1
+LmhpFirmwareManagement.c:144:15:LmhpFirmwareManagementPackageFactory	1
+LmhpFirmwareManagement.c:150:13:LmhpFirmwareManagementInit	2
+LmhpFirmwareManagement.c:167:13:LmhpFirmwareManagementIsInitialized	1
+LmhpFirmwareManagement.c:172:13:LmhpFirmwareManagementIsRunning	2
+LmhpFirmwareManagement.c:182:13:LmhpFirmwareManagementProcess	1
+LmhpFirmwareManagement.c:187:13:LmhpFirmwareManagementOnMcpsIndication	14
+LmhpFirmwareManagement.c:350:13:OnRebootTimer	0
